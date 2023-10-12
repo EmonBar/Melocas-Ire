@@ -1,6 +1,6 @@
 # Melocas-Ire
 
-Melocas-Ire is a platform game developed with the Unity Engine by the Code.002 team during their second semester at EPITA. The game features four playable characters, each with their unique skills and abilities, and each level is based on a different theme to keep the game interesting.
+Melocas-Ire is a platform game developed with the Unity Engine by the Code.002 team. The game features four playable characters, each with their unique skills and abilities, and each level is based on a different theme to keep the game interesting.
 
 ## Installation
 
